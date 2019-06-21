@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539709560 source:e:\code blocks\doublylinkedcirc\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1537987741 source:e:\code blocks\prefixtoinfixfinal\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+

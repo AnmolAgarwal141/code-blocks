@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507960653 source:d:\code blocks\strcmp strcat\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
